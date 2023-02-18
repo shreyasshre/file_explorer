@@ -1,0 +1,27 @@
+package full_stack_assessment;
+import java.util.*;
+
+public class file_tracer {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		Scanner s=new Scanner(System.in);
+		int main_option;
+		int sub_option;
+		String file_path;
+		
+		System.out.println("A MENU BASED FILE EXPLORER BY SHREYAS");
+		
+		for(;;) 
+		{
+			
+			System.out.println("please select below options for the corresponding operations \n");
+		}
+		
+		
+		
+		
+
+	}
+
+}
